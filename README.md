@@ -8,6 +8,28 @@ drthastyhhshv
 学会使用super()，用于实例化子类；
 学会使用Object根类的toString（）方法,应用在相关对象的信息输出中。
 
+##业务要求：System.out.println("\n系统菜单：");
+			System.out.println("\t01 添加一个学生");
+			System.out.println("\t02查找一个学生");
+			System.out.println("\t03根据学生编号更改学生基本信息");
+			System.out.println("\t04根据学生姓名删除学生");
+			System.out.println("\t05根据学生编号输入学生各门成绩");
+			System.out.println("\t06根据某门成绩进行排序");
+			System.out.println("\t07根据总分进行排序");
+			System.out.println("\t08 显示成绩表");
+			System.out.println("\t00退出系统");
+			System.out.println("请输入操作编号选择您的操作：");System.out.println("\n系统菜单：");
+			System.out.println("\t01 添加一个学生");
+			System.out.println("\t02查找一个学生");
+			System.out.println("\t03根据学生编号更改学生基本信息");
+			System.out.println("\t04根据学生姓名删除学生");
+			System.out.println("\t05根据学生编号输入学生各门成绩");
+			System.out.println("\t06根据某门成绩进行排序");
+			System.out.println("\t07根据总分进行排序");
+			System.out.println("\t08 显示成绩表");
+			System.out.println("\t00退出系统");
+			System.out.println("请输入操作编号选择您的操作：");
+
 ##实验过程
 #1首先需要选择身份，学生或者是管理员，如果选择管理员需要输入密码，菜单上的选项有的只能管理员访问
 
