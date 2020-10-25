@@ -133,3 +133,4 @@ System.out.println("\n系统菜单：");
 				try {
 					Thread.sleep(1000);
 				} catch (InterruptedException e) {
+![result](https://github.com/asdfqweSMP01/aeffgswreseft/upload/main)
